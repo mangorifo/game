@@ -1,1 +1,2 @@
-# hi
+# BETA VERSION
+ver. 0.0
