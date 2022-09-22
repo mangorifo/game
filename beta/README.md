@@ -9,4 +9,5 @@ laptop broken, still
 # ANYWAYY
 the game will be made in godot.\
 the game will take a VERY long time to complete\
-i need people to help me :skull:
+i need people to help me :skull:\
+also i know i dont need batchfiles
