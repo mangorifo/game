@@ -1,3 +1,3 @@
-start "%appdata%/rrgame/beta/app.exe%"
-start cmd /k "%appdata%/rrgame/start2.bat"
+@echo off
+start %cd%/notice.bat
 exit
